@@ -1,0 +1,7 @@
+include CITATION.md CITATION.cff requirements-repro.txt run.py
+include .github/ci-template.yml
+recursive-include docs *.md
+recursive-include examples *.py
+prune data
+prune src/clinical_response/data
+global-exclude *.json *.csv *.npz *.npy

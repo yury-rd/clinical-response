@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+results/
+local-data/
+*.npz
+*.npy
+*.csv
+*.tsv
+*.json
+.DS_Store

@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/yury-rd/clinical-response-data.git
+	branch = data

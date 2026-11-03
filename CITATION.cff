@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using this software."
+title: "Clinical response to nuisance regression"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/yury-rd/clinical-response"
+authors:
+  - family-names: Gabitov
+    given-names: Ildar
+  - family-names: Volkov
+    given-names: Aleksandr
+  - family-names: Chattopadhyay
+    given-names: Tamoghna
+  - family-names: Thompson
+    given-names: Paul M.
+  - family-names: Maximov
+    given-names: Yury
+preferred-citation:
+  type: unpublished
+  title: "Dementia Severity Is Associated with Resting-State fMRI Network Responses to Nuisance Regression"
+  notes: "Submission to the 2027 IEEE International Symposium on Biomedical Imaging (ISBI 2027)."
+  authors:
+    - family-names: Gabitov
+      given-names: Ildar
+    - family-names: Volkov
+      given-names: Aleksandr
+    - family-names: Chattopadhyay
+      given-names: Tamoghna
+    - family-names: Thompson
+      given-names: Paul M.
+    - family-names: Maximov
+      given-names: Yury
